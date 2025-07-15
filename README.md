@@ -1,2 +1,2 @@
-<h1 style="color: #34c6eb;">SUDOKU SOLVER</h1>
+# SUDOKU SOLVER
 This is my first GitHub repository! Project still in progress...
