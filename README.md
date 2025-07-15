@@ -1,2 +1,2 @@
-# sudoku-solver
-This is my first GitHub repository! 
+# SUDOKU SOLVER
+This is my first GitHub repository! Project still in progress...
